@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+.card{
+    margin: 0 auto;
+    max-width: 380px;
+    text-align: center;
+    margin-top: 5px;
+    font-size:0;
+}
+
+
+.cla-hd #result{
+    width:350px;
+    height: 100px;
+    text-align:right;
+    font-weight: bold;
+    padding:0 5px;
+    letter-spacing: 2px;
+    font-size: 32px;
+    
+    
+}
+
+.btn{
+    width: 85px;
+    height: 35px;
+    border-radius: 5px;
+    margin: 4px;
+    font-size: 18px;
+    border: none;
+
+}
